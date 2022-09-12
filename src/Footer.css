@@ -1,0 +1,46 @@
+.footer {
+  position: absolute;
+  width: 306px;
+  height: 64px;
+  left: 816px;
+  top: 801px;
+
+  background: #d5d4d8;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.twitter {
+  position: absolute;
+  left: 15.91%;
+  right: 65.55%;
+  top: 30.8%;
+  bottom: 7.32%;
+
+}
+
+.facebook {
+  position: absolute;
+  left: 36.91%;
+  right: 56.64%;
+  top: 30.8%;
+  bottom: 7.32%;
+
+}
+
+.instagram {
+  position: absolute;
+  left: 54.91%;
+  right: 47.73%;
+  top: 30.8%;
+  bottom: 7.32%;
+
+}
+
+.github {
+  position: absolute;
+  left: 77.55%;
+  right: 29.91%;
+  top: 30.8%;
+  bottom: 7.32%;
+
+}
